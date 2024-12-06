@@ -18,7 +18,7 @@ The dataset used in this project was extracted from Kaggle and focuses on Adidas
 Dataset link: 
 https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset
 
-### Step 3: Dashboard Development
+###  Dashboard Development
 The dashboard was designed to present key insights and trends in an intuitive and interactive manner. Various Power BI visuals were utilized to visualize sales data effectively. Filters and slicers were incorporated to facilitate dynamic exploration of the data.
 
 ## Visualization Highlights
